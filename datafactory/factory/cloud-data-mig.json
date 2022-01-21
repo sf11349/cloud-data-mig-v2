@@ -1,0 +1,9 @@
+{
+	"name": "cloud-data-mig",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c8424ce-5999-459c-b7b0-93bcfb0a0d84",
+		"tenantId": "2035ac24-cd48-42a8-82cd-a46be3840315"
+	}
+}
